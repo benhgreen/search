@@ -2,7 +2,6 @@
 #include <stdlib.h>
 #include <ctype.h>
 #include <string.h>
-#include "sorted-list.h"
 #include "sorted-list.c"
 #include <sys/stat.h>
 #include <sys/types.h>
